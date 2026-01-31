@@ -107,17 +107,7 @@ Sonuçlar, makine öğrenmesinin spor salonu kullanım alışkanlıklarını mod
 
 ---
 
-## 📂 How to Run | Çalıştırma Adımları
 
-```bash
-# Clone the repository
-git clone https://github.com/cansuyildirimmm/Gym-Crowdedness-Predictor.git
-
-# Navigate to project folder
-cd Gym-Crowdedness-Predictor
-
-# Install required libraries
-pip install -r requirements.txt
 
 # Open the notebook
 jupyter notebook 15-RandomForestRegressor.ipynb
