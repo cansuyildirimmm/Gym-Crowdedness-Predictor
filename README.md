@@ -107,7 +107,3 @@ Sonuçlar, makine öğrenmesinin spor salonu kullanım alışkanlıklarını mod
 
 ---
 
-
-
-# Open the notebook
-jupyter notebook 15-RandomForestRegressor.ipynb
