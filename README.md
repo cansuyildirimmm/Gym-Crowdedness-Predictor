@@ -1,4 +1,4 @@
-# Gym-Crowdedness-Predictor                                
+# Gym-Crowdedness-Predictor                                                    
      
 Machine learning project for predicting campus gym crowdedness using real-world attendance data.  
 Gerçek verilerle kampüs spor salonu yoğunluğunu tahmin etmeye yönelik bir makine öğrenmesi projesi.
